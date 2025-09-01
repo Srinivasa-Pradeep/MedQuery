@@ -1,0 +1,6 @@
+[browser]
+
+# Default: "localhost"
+# whether to send usage statistics to Streamlit.
+
+gatherUsageStats = false
